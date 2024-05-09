@@ -1,0 +1,24 @@
+.error-page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #222;
+    /* Dark background color */
+}
+
+.error-message {
+    text-align: center;
+    color: #fff;
+    /* White text color */
+}
+
+.error-message h1 {
+    font-size: 6rem;
+    margin: 0;
+}
+
+.error-message p {
+    font-size: 1.5rem;
+    margin: 0;
+}
